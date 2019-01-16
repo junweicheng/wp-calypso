@@ -8,12 +8,12 @@ import { isString, find, get } from 'lodash';
  * Internal dependencies
  */
 
-const SIGNUP_SITE_MOCKUP_DEFAULT_VERTICAL_NAME = 'business';
+const SIGNUP_SITE_MOCKUP_DEFAULT_VERTICAL_NAME = '';
 
 const verticalList = [
 	{
-		vertical_name: 'Restaurant',
-		vertical_id: 'a8c.3.0.4',
+		vertical_name: 'Restaurants',
+		vertical_id: '',
 		preview: {
 			title: 'Your Restaurant',
 			content:
