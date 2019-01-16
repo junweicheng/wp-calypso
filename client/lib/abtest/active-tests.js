@@ -76,8 +76,8 @@ export default {
 	removeUsername: {
 		datestamp: '20181213',
 		variations: {
-			showUsername: 50,
-			hideUsername: 50,
+			showUsername: 100,
+			hideUsername: 0,
 		},
 		defaultVariation: 'showUsername',
 	},
