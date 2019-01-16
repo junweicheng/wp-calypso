@@ -17,8 +17,8 @@ export const siteStyleOptions = {
 				}
 			),
 			id: 'default',
-			label: 'Radcliffe Perfect',
-			theme: 'pub/radcliffe-2',
+			label: 'Classic',
+			theme: 'pub/twentynineteen',
 		},
 		{
 			description: i18n.translate(
@@ -28,8 +28,8 @@ export const siteStyleOptions = {
 				}
 			),
 			id: 'modern',
-			label: 'Modern Bauhaus',
-			theme: 'pub/radcliffe-2',
+			label: 'Elegant',
+			theme: 'pub/twentynineteen',
 		},
 		{
 			description: i18n.translate(
@@ -39,8 +39,8 @@ export const siteStyleOptions = {
 				}
 			),
 			id: 'vintage',
-			label: 'Vintage Paper',
-			theme: 'pub/radcliffe-2',
+			label: 'Dark',
+			theme: 'pub/twentynineteen',
 		},
 		{
 			description: i18n.translate(
@@ -50,8 +50,8 @@ export const siteStyleOptions = {
 				}
 			),
 			id: 'colorful',
-			label: 'Upbeat Pop',
-			theme: 'pub/radcliffe-2',
+			label: 'Upbeat',
+			theme: 'pub/twentynineteen',
 		},
 	],
 };
