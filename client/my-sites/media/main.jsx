@@ -167,7 +167,7 @@ class Media extends Component {
 		return [
 			{
 				action: 'delete',
-				additionalClassNames: 'media__modal-delete-item-button is-link',
+				additionalClassNames: 'is-borderless is-scary',
 				label: translate( 'Delete' ),
 				isPrimary: false,
 				disabled: false,
